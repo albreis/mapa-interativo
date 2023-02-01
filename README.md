@@ -1,4 +1,6 @@
-# widget
+# Mapa interativo VueJS
+
+![Mapa interativo VueJS](./screenshot.png)
 
 ## Project setup
 ```
